@@ -18,7 +18,5 @@ An AI-powered email assistant built using Node.js, Gmail API, and Gemini API.
 
 ## Future Work
 - Auto categorization
-- Draft generation
-- Mark emails as read
 - Auto replies
 - Priority inbox
