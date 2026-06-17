@@ -70,6 +70,7 @@ The project demonstrates how Large Language Models can be integrated with email 
 * Express.js
 * Node Cron
 
+---
 
 ## Workflow
 
@@ -117,6 +118,9 @@ node server.js
 Open:
 
 http://localhost:3000
+
+
+
 
 
 
